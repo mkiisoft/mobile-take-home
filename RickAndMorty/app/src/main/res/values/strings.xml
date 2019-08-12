@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">RickAndMorty</string>
+    <string name="logo">logo</string>
+    <string name="no_network">NO NETWORK</string>
+    <string name="data_error">DATA ERROR</string>
+    <string name="data_error_info">DATA ERROR INFO</string>
+    <string name="close">CLOSE</string>
+    <string name="character_avatar">Character Avatar</string>
+    <string name="species">Species: %1$s</string>
+    <string name="gender">Gender: %1$s</string>
+    <string name="type">Type: %1$s</string>
+    <string name="origin">Origin: %1$s\nLocation: %2$s</string>
+    <string name="episodes">Episodes:\n\n%1$s</string>
+    <string name="loading_episodes">LOADING EPISODES…</string>
+    <string name="loading_percentage_episodes">LOADING EPISODES</string>
+    <string name="loading_characters">LOADING CHARACTERS…</string>
+    <string name="loading_percentage_characters">LOADING CHARACTERS</string>
+</resources>
