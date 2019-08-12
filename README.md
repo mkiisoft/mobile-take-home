@@ -9,10 +9,12 @@ Instructions:
 
 Edge case: If the Application class gives any path error, remove
 
+```
 compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
     }
+```
 from app/build.gradle > Build > Rebuild Project > input the same lines inside app/build.gradle > Build > Clean Project > Build Project or Run 'app'
 
 ### Guestlogix Take Home Test - Mobile
